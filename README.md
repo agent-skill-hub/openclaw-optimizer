@@ -24,7 +24,7 @@ OpenClaw 有一个坑：默认 `tools.profile` 是 `"coding"`，会静默禁用 
 ## 安装
 
 ```bash
-npx skills add agent-skill-hub/openclaw-optimizer -g -y
+npx skills add agent-skill-hub/openclaw-optimizer
 ```
 
 触发词：`优化 openclaw` · `降低 token 消耗` · `工具不能用` · `搜索坏了` · `安全检查`
